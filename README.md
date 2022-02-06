@@ -53,4 +53,7 @@
 
 
 <h2 align="center">GitHub Stats:</h2>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=SudhanshuR37&show_icons=true&locale=en" alt="SudhanshuR37" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=SudhanshuR37&count_private=true&show_icons=true&theme=radical" alt="SudhanshuR37" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhanshuR37&layout=compact&theme=radical&langs_count=10" alt="SudhanshuR37" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanshuR37&" alt="SudhanshuR37" />
