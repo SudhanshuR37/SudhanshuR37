@@ -55,8 +55,28 @@
 
 <h2 align="center">📊 GitHub Stats:</h2>
 
-<img  align="center" src="https://github-readme-stats.vercel.app/api?username=SudhanshuR37&count_private=true&show_icons=true&theme=radical" alt="SudhanshuR37" />
+<p align="center"> <img  align="center" src="https://github-readme-stats.vercel.app/api?username=SudhanshuR37&count_private=true&show_icons=true&theme=radical" alt="SudhanshuR37" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhanshuR37&theme=radical" alt="SudhanshuR37" />
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhanshuR37&theme=radical" alt="SudhanshuR37" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanshuR37&theme=radical" alt="SudhanshuR37" />
+<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanshuR37&theme=radical" alt="SudhanshuR37" />
+
+
+
+---
+
+
+
+<h2 align="center">🔗 Let's Connect:</h2>
+
+<p align="center">
+<a href="https://twitter.com/s37randive" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:s37randive@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/sudhanshu-randive-579585195/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</p>
