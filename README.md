@@ -80,3 +80,5 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </p>
+
+<img src="https://activity-graph.herokuapp.com/graph?username=SudhanshuR37&theme=react-dark&area=true&hide_border=true">
