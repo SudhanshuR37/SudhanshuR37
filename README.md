@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Web and Android Development**.
 
-- 📫 Reach me at <b><a href="mailto:s37randive@gmail.com">s37randive@gmail.com</a></b>
+- 📫 Reach me at <b><a href="mailto:s37randive@gmail.com">s37randive@gmail.com</a></b>.
 
 - 🚀 Exploring **Cyber Security** and **Data Science**.
 
