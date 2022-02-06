@@ -52,12 +52,11 @@
 ---
 
 
+
 <h2 align="center">GitHub Stats:</h2>
 
-<img style="width:100%" align="center" src="https://github-readme-stats.vercel.app/api?username=SudhanshuR37&count_private=true&show_icons=true&theme=radical" alt="SudhanshuR37" />
+<img  align="center" src="https://github-readme-stats.vercel.app/api?username=SudhanshuR37&count_private=true&show_icons=true&theme=radical" alt="SudhanshuR37" />
 
-<div style="display:flex;align-items:center;justify-content:space-between">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhanshuR37&theme=radical" alt="SudhanshuR37" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhanshuR37&theme=radical" alt="SudhanshuR37" />
 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanshuR37&theme=radical" alt="SudhanshuR37" />
-</div>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanshuR37&theme=radical" alt="SudhanshuR37" />
