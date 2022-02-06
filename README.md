@@ -53,4 +53,4 @@
 
 
 <h2 align="center">GitHub Stats:</h2>
-![Sudhanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=SudhanshuR37&show_icons=true&theme=radical)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=SudhanshuR37&show_icons=true&locale=en" alt="SudhanshuR37" />
