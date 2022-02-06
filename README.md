@@ -38,3 +38,10 @@
 <img height="50px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/express/express.png"></img>
 <img height="50px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/react/react.png"></img>
 <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></img>
+<img height="50px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/git/git.png"></img>
+<img height="50px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"></img>
+<img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></img>
+<img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></img>
+<img height="50px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></img>
+<img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></img>
+<img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"></img>
