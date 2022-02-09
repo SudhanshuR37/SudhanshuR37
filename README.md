@@ -29,6 +29,7 @@
 <img height="50px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/dart/dart.png"></img>
 <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></img>
 <img height="50px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/javascript/javascript.png"></img>
+<img height="50px" src="https://raw.githubusercontent.com/github/explore/cb39e2385dfcec8a661d01bfacff6b1e33bbaa9d/topics/babel/babel.png"></img>
 <img height="50px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/flutter/flutter.png"></img>
 <img height="50px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/html/html.png"></img>
 <img height="50px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/css/css.png"></img>
@@ -38,6 +39,7 @@
 <img height="50px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/mongodb/mongodb.png"></img>
 <img height="50px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/express/express.png"></img>
 <img height="50px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/react/react.png"></img>
+<img height="50px" src="https://vitejs.dev/logo.svg"></img>
 <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></img>
 <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></img>
 <img height="50px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/git/git.png"></img>
