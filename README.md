@@ -43,6 +43,7 @@
 <img height="50px" src="https://vitejs.dev/logo.svg"></img>
 <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></img>
 <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></img>
+<img height="50px" src="https://www.gitbook.com/cdn-cgi/image/width=40,height=40,fit=contain,dpr=2.5,format=auto/https%3A%2F%2F1252457264-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-28427.appspot.com%2Fo%2Fspaces%252F-LVOh1OI8lhWfR_994H2%252Favatar.png%3Fgeneration%3D1546620224707409%26alt%3Dmedia"></img>
 <img height="50px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/git/git.png"></img>
 <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></img>
 <img height="50px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/sql/sql.png"></img>
