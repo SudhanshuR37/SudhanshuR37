@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently working on: [RagnarokX](https://github.com/SudhanshuR37/RagnarokX).
 
-- 🌱 I’m currently learning ****.
+- 🌱 I’m currently learning **Web3 and Blockchain Development**.
 
 - 🎯 I’m currently focusing on **Competitive Programming**.
 
