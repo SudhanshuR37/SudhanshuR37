@@ -15,7 +15,7 @@
 
 - 🚀 Exploring **Cyber Security** and **Data Science**.
 
-- ⚡ I love gaming and watching Anime.
+- ⚡ I love Gaming and watching Anime.
 
 
 
