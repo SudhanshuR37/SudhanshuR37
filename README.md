@@ -52,7 +52,7 @@
 <img height="50px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"></img>
 <img height="50px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/firebase/firebase.png"></img>
 <img height="50px" src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png"></img>
-<img height="50px" src="https://esp.ethereum.foundation/static/f8b753af4c23eb1e1c0896b62a37de8a/69585/ethers-js.png"></img>
+<img height="50px" src="https://s3.amazonaws.com/infura-blog-content/2021/05/pasted-image-0--41-.png"></img>
 <img height="50px" src="https://camo.githubusercontent.com/7ecbd4531436e4f20c1dba52a4fd4ac367cfcc20a2f62cfe7a10f32da306afc6/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67"></img>
 <img height="50px" src="https://raw.githubusercontent.com/github/explore/ba9de12f88fd08825c51928e91f1678cb5c94b26/topics/solidity/solidity.png"></img>
 <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/800px-MetaMask_Fox.svg.png"></img>
